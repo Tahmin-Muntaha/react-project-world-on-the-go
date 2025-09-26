@@ -6,3 +6,8 @@
 .h1{
     text-align: center;
 }
+.visited-flags img{
+    height:20px;
+    width: 20px;
+    margin: 3px;
+}
